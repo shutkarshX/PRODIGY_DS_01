@@ -68,7 +68,7 @@ outputs/top_10_population.png
 ## Project Structure
 
 ```text
-Task-01/
+PRODIGY_DS_01/
 ├── dataset/
 │   ├── population.csv
 │   └── metadata_country.csv
